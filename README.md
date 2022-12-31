@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Shreya Pramanik  
   
-  <img  src="https://user-images.githubusercontent.com/86841935/158090002-2df41d0c-c480-4de2-83c5-8bb3c37b2ae1.png" width="100">
+  <img  src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200px" border="black" border-radius = "10px">
 
 </div> 
 
@@ -14,7 +14,6 @@
   
 </div> 
 
-- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset
 - 🌱 I’m Currently learning Mern Stack & DSA 
 - 🔭 I’m looking to collaborate on web project
 - 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:shreyapramanik@gmail.com?subject=[GitHub]%20)**
