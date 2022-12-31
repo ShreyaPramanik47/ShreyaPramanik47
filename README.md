@@ -98,7 +98,7 @@
   
   ## ⚙️ Connect with me:
   
-  <a href="https://www.fiverr.com/shreya_pramanik?up_rollout=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/fiverr-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="Shreyapramanik" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/shreya-pramanik-530366220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShreyaPramanik" height="30" width="50" /></a>
   
 </div> 
