@@ -81,12 +81,16 @@
   <a target="_blank" href="https://auth.geeksforgeeks.org/user/shreyapramanik47/practice" style="padding-right:18px;">
   <img alt="GeeksForGeeks" width="135px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
+  <a target="_blank" href="https://www.codingninjas.com/codestudio/profile/2349b579-e2fd-4fd8-8e11-ac0f2ebb71e4" style="padding-right:18px;">
+  <img alt="Codestudio" width="100px" src="https://img.shields.io/badge/Codestudio-000000?style=for-the-badge&logo=Codestudio&logoColor=#d16c06" />
+</a>
+   <a target="_blank" href="https://leetcode.com/shreyapramanik/" style="padding-right:18px;">
+  <img alt="Leetcode" width="100px" src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=#d16c06" />
+</a>
 <a target="_blank" href="https://www.hackerrank.com/shreyapramanik91" style="padding-right:18px;">
   <img alt="HackerRank" width="100px" src="https://img.shields.io/badge/-HackerRank-Green?style=for-the-badge&logo=HackerRank&logoColor=Black" />
 </a>
-<a target="_blank" href="https://www.codingninjas.com/codestudio/profile/2349b579-e2fd-4fd8-8e11-ac0f2ebb71e4" style="padding-right:18px;">
-  <img alt="Codestudio" width="100px" src="https://img.shields.io/badge/Codestudio-000000?style=for-the-badge&logo=Codestudio&logoColor=#d16c06" />
-</a>
+
 
 </div>
 
