@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Pramanik</h1>
 <h3 align="center">Aspiring Software Engineer </h3>
-
 <br/>
 
 ## ✨ About Me:
@@ -9,9 +8,9 @@
 
 - 🌱 I’m Currently learning Mern Stack & DSA 
 - 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:shreyapramanik@gmail.com?subject=[GitHub]%20)**
-- ⚡ Fun fact: I'm a digital creator on Instagram
 - 💬 Ask me about **anything**, always ready to help.
 - 🌐 Porfolio - **[shreya.P](https://shreyapramanik47.github.io/Shreya-Pramanik-Portfolio/)**
+- ⚡ Fun fact: I'm a digital creator on Instagram
 
 
 <br/>
