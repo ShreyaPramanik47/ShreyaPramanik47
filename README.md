@@ -1,30 +1,27 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shreya Pramanik</h1>
+<h3 align="center">Aspiring Software Engineer </h3>
 
-### Hi there, I'm Shreya Pramanik  
-  
-  <img  src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200px" border="black" border-radius = "10px">
+<br/>
 
-</div> 
+## ✨ About Me:
 
-
-
-<div align="center">
-  
-##  👩‍💻 About Me
-  
-</div> 
+<img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
 - 🌱 I’m Currently learning Mern Stack & DSA 
-- 🔭 I’m looking to collaborate on web project
 - 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:shreyapramanik@gmail.com?subject=[GitHub]%20)**
 - ⚡ Fun fact: I'm a digital creator on Instagram
+- 💬 Ask me about **anything**, always ready to help.
+- 🌐 Porfolio - **[shreya.P](https://shreyapramanik47.github.io/Shreya-Pramanik-Portfolio/)**
 
 
-<br>
+<br/>
 
-<div align="center">
+## 🚀 Tech Stack:
 
-  ## 📊 Github Status
+<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a>&nbsp <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp</p>
+</br>
+
+## 📈 Github Status
 
 </div> 
 
@@ -40,69 +37,28 @@
   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaPramanik47&layout=compact">
   
-  
-
-  
 </div> 
-
-
 </div>
-<br>
-
-<div>
-  
-  <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
-
-
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" >
-
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
-<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" >
-
-
-<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
-
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" >
-<img  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" >
-  
-</div>
-
-
-
 <br>
 
 
 <div align="center">
-  
-  
-## 🌐 Tech Accounts
-  
-  <a target="_blank" href="https://auth.geeksforgeeks.org/user/shreyapramanik47/practice" style="padding-right:18px;">
-  <img alt="GeeksForGeeks" width="135px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-  <a target="_blank" href="https://www.codingninjas.com/codestudio/profile/2349b579-e2fd-4fd8-8e11-ac0f2ebb71e4" style="padding-right:18px;">
-  <img alt="Codestudio" width="100px" src="https://img.shields.io/badge/Codestudio-000000?style=for-the-badge&logo=Codestudio&logoColor=#d16c06" />
-</a>
-   <a target="_blank" href="https://leetcode.com/shreyapramanik/" style="padding-right:18px;">
-  <img alt="Leetcode" width="100px" src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=#d16c06" />
-</a>
-<a target="_blank" href="https://www.hackerrank.com/shreyapramanik91" style="padding-right:18px;">
-  <img alt="HackerRank" width="100px" src="https://img.shields.io/badge/-HackerRank-Green?style=for-the-badge&logo=HackerRank&logoColor=Black" />
-</a>
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me
 
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/shreya-pramanik-530366220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya Linkdin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shreyapramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyapramanik" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/shreyapramanik47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyapramanik47" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shreyapramanik47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
+<a href="https://github.com/ShreyaPramanik47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<!--## 📊 Metrics
+<!--<div align="center">
+
+<!--![Metrics](https://github.com/AP-XD/AP-XD/blob/main/github-metrics.svg)</div>
 
 <br>
-
-
-
-<div align="center">
-  
-  ## ⚙️ Connect with me:
-  
-
-<a href="https://www.linkedin.com/in/shreya-pramanik-530366220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShreyaPramanik" height="30" width="50" /></a>
-  
-</div> 
