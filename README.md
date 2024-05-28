@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer </h3>
 <br/>
 
-## ✨ About Me:
+## 👩‍💻 About Me:
 
 <img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
