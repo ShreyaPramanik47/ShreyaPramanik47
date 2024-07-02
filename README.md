@@ -9,7 +9,7 @@
 - 🌱 I’m Currently learning Mern Stack & DSA 
 - 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:shreyapramanik@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Porfolio - **[shreya.P](https://shreyapramanik47.github.io/Shreya-Pramanik-Portfolio/)**
+- 🌐 Porfolio - **[shreya.P](https://shreyapramanik47.github.io/Shreya-Pramanik/)**
 - ⚡ Fun fact: I'm a digital creator on Instagram
 
 
